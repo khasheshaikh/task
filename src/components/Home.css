@@ -1,0 +1,31 @@
+.card{
+    margin: 5px auto;
+    text-align: center;
+    padding: 40px;
+    
+    font-size: 20px;
+    background-color: grey;
+    width: 50%;
+}
+.button{
+    
+   text-align: center;
+    
+    
+}
+.btn{
+    font-size: 25px;
+    padding: 10px 20px;
+    background-color: cadetblue;
+}
+
+.container{
+   margin: auto;
+
+}
+.span-1{
+    color: red;
+}
+.span-2{
+    color: green;
+}
