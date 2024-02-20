@@ -1,0 +1,37 @@
+.main-container {
+  margin: 100px;
+  text-align: center;
+  
+}
+.Add{
+    background-color: green;
+    color: white;
+    margin: 0px 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.Subtract{
+    background-color: red;
+    color: white;
+    margin: 0px 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.question{
+  display: flex;
+   justify-content: center;
+}
+.start{
+    width: 500px;
+}
+.submit{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+}
